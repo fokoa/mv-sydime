@@ -1,0 +1,984 @@
+{
+    "ID": 70296,
+    "NOM": " Marie Christine",
+    "Age": 21,
+    "Contexte Social": {
+        "status matrimonial": "Mariee",
+        "fonction": "Menagere",
+        "religion": "Catholique",
+        "ethnie": "Bamilike",
+        "residence": "Nkoldongo",
+        "mari": "PP",
+        "telephone": 690123456
+    },
+    "SympTomes": [
+        "Diarhee chronique",
+        "Douleurs Abdominales"
+    ],
+    "Histoire": "Le debut des sympt\u00f4mes remonte a un mois environs marque par une diarhee Glairo sanguinolante associe a des douleurs abdominales a type d'etirement environs 10 episodes par jours. en contexte a febrile ce qui a motive 3 jours plutard une consultation a l'hopital de distict de Nkoldongo. 2 semaines apres la patiente note une reapparution de la diarhee avec les m\u00eames caracteristiques ce qui motive une nouvelle consultation de ledit h\u00f4pital. L'evolution pendant le traitement est marquee deux semaines plutard par l'arr\u00eat de la diarhee. Quelques jour plutard la reprise de la diarhee avec les m\u00eames sympt\u00f4mes motive a nouveau une consultation au CHU de Yaounde o\u00f9 elle est referee. nous devons noter l'alternance diarhee constipation.",
+    "antecedent": {
+        "MODE de vie": "elle consomme beaucoup de viande et de fumesons",
+        "Medical": "personne vivante avec le VIH connu depuis 2014 avec une charge virale inconnu avec un taux de CD4 inconnu decouvert au court d'un paludisme grave. par ailleur aurai une infection pulmonaire en fevrier 2016 sous traitement depuis un mois",
+        "chirugical": "intervention chirugicale en 2004 indiquer pour grossesse extra uterine rompu de suite simple a la maternite",
+        "Toxicologie": "ne fume pas et ne boit pas",
+        "Familiaux": {
+            "Ascendants": "Pere decede d'un accident de la voie publique\n Mere en bonne sante",
+            "Collateraux": "conjoint en bonne sante",
+            "Descendants": "cinq enfants donc une fille et quatre gar\u00e7ons en bonne sante"
+        }
+    },
+    "enquetes systemique": {
+        "Signes Generaux": {
+            "Astherine": "Negatif",
+            "Amaigrissement": "Positif",
+            "Anorexie": "Negatif",
+            "Fievre": "Negatif",
+            "Sueurs": "Negatif",
+            "Frissosn": "Negatif",
+            "Soif": "Negatif"
+        },
+        "Systeme": {
+            "Diarhee": "Positif",
+            "Liquide Glairosanguinolante": "Positif",
+            "Nausees": "Negatif",
+            "Vomissement": "Negatif",
+            "Douleurs Gastriques": "positif"
+        }
+    },
+    "parametre": [
+        {
+            "TYPE": "Vitaux",
+            "Tension Arterielle": "100/60 mmHg",
+            "Frequence Cardiaque": "96 bpm",
+            "Frequence Respiratoire": "16 Cpm",
+            "Glycemie": "1,4 gpl",
+            "Temperature": "37,8 \u00b0C",
+            "Saturation en Oxygene": "5"
+        },
+        {
+            "TYPE": "Entropometrique",
+            "Taille": "1,63 m",
+            "Indice de masse": "0",
+            "Poids": "65 kg",
+            "Circonference abdominale": "Inconnue"
+        }
+    ],
+    "examens": [
+        {
+            "SYSTEME": "DIGESTIF",
+            "Inspection": [
+                "Scleres anitriques",
+                "Cavite bucale propre et humide",
+                "Abdomen plat",
+                "Circulation veineuse collaterale absente",
+                "Plis cutanique paraisseux"
+            ],
+            "Palpation": [
+                "Repatomegalie absente",
+                "Masse palpable absente",
+                "Sensibilite epigastrique",
+                "Sensibilite Hypochandre Gauche"
+            ],
+            "Percution": [
+                "Bonne sonnorite abdominale"
+            ],
+            "auscultation": [
+                "Bruits des instestins audibles"
+            ]
+        },
+        {
+            "SYSTEME": "NERVEUX",
+            "Inspection": [
+                "Fontions superieur : normaux",
+                "Nerf cranien tofe : normal",
+                "Force musculaire Globale : Positive",
+                "baret : positive",
+                "Magazzini : POsitive",
+                "Cotation de la force de chaque menbre : Positive"
+            ],
+            "Palpation": [
+                "RAS"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        },
+        {
+            "SYSTEME": "CARDIOVASCULAIRE",
+            "Inspection": [
+                "Oedun des menbres inferieur : absent",
+                "Tugessance spontanee des veines jugulaire : absente"
+            ],
+            "Palpation": [
+                "Choc des pointes a l'espace inter costal : Visible et Palpable"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "Bruits du coeur : audible"
+            ]
+        },
+        {
+            "SYSTEME": "RESPIRATOIRE",
+            "Inspection": [
+                "Ampliation thoracique : bonne"
+            ],
+            "Palpation": [
+                "Vibration vocale : Normale"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "Murmures Vesiculaires : audibles"
+            ]
+        },
+        {
+            "SYSTEME": "URINAIRE",
+            "Inspection": [
+                "Vausure Hypogastrique : absente"
+            ],
+            "Palpation": [
+                "Kidney murphy punch"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        },
+        {
+            "SYSTEME": "HEMATOPOITIQUE",
+            "Inspection": [
+                "Conjonction : rosee"
+            ],
+            "Palpation": [
+                "Adenopathie palpable : absente",
+                "Spleromegalie : absente"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        }
+    ],
+    "hypothese de diagnostic": [
+        {
+            "Diagnostic Positif": "Enterite a frbrille",
+            "Diagnostic etiologique": {
+                "TYPE": "Parasitaire",
+                "Cause": [
+                    "Isosporose",
+                    "Cryptosporodiose"
+                ],
+                "argument": "Diarhee chronique glairosanguinolante"
+            },
+            "Diagnostic differentiel": {
+                "Maladie": [
+                    "Fievre Thyphoide",
+                    "Dysenterie"
+                ],
+                "argument en faveur": [
+                    "diarhee chronique"
+                ],
+                "argument en defaveur": [
+                    "absence de fievre",
+                    "absence de signes vicerals"
+                ]
+            }
+        },
+        {
+            "Diagnostic Positif": "Fievre thyphoide",
+            "Diagnostic etiologique": {
+                "TYPE": "Parasitaire",
+                "Cause": [
+                    "Salmonara thyphi"
+                ],
+                "argument": "appartenance au segond septenaire"
+            },
+            "Diagnostic differentiel": {
+                "Maladie": "Dysenterie",
+                "argument en faveur": [
+                    "diarhee chronique"
+                ],
+                "argument en defaveur": "Aucun"
+            }
+        }
+    ],
+    "diagnostique de travail": {
+        "Maladie": "Enterite a frbrille",
+        "Etiologie": {
+            "TYPE": "Parasitaire",
+            "Cause": [
+                "Isosporose",
+                "Cryptosporodiose"
+            ]
+        }
+    },
+    "examens complementaire": {
+        "Avise de diagnostic": [
+            "Coproculture",
+            "Examen parasitologique des sels",
+            "Hernoculture"
+        ],
+        "Retentissements": [
+            "Uree-Creatine sanguine",
+            "Ionogramme complet"
+        ],
+        "Terrain": [
+            "Taux de CD4",
+            "Taux de charge Virale",
+            "Bilan des autres IST"
+        ]
+    },
+    "traitement": {
+        "But": [
+            "Traitement de la diarhee",
+            "Tritement des causes",
+            "Prevenir les complication"
+        ],
+        "Mesures generales": [
+            "Hospitalisation",
+            "Medicaments",
+            "Alimentation equilibree"
+        ],
+        "Mesures specifiques": {
+            "Loperamide": "2 gellules en une prise puis 1 gellule a chaque prise",
+            "Sirop": " a boire a volonte 1 sachet oar litre d'eau",
+            "Cotrimoxazole": "900 mg 10 a 15 jours"
+        },
+        "Surveillance": {
+            "Clinique": [
+                "Tension Arterille",
+                "Frequence Cardiaque",
+                "Frequence Respiratoire",
+                "Temperature",
+                "Poids",
+                "Diurese",
+                "Diarhee"
+            ],
+            "Paraclinique": "Examens complementaires a effectuer par le patient"
+        },
+        "pronostique": [
+            "Dependance du germe en cause de la diarhee",
+            "Prise en charge",
+            "Tolerence du patient"
+        ]
+    }
+},
+
+{
+    "Identification": {
+        "Identifiant": 80453,
+        "Nom": "ERIC",
+        "Age": 26,
+        "Sexe": "Homme"
+    },
+    "Contexte social": {
+        "status matrimonial": "AUTRE",
+        "metier": "COMMERCANT",
+        "religion": "CATHOLIQUE",
+        "ethnie": "BAMILEKE",
+        "residence": "JUVENCE",
+        "conjoint ou autre personne": "INCONNUE",
+        "telephone": 758771970
+    },
+    "Symptomes du patient": [
+        "CEPHALE FRONTALE",
+        "FATIGUE"
+    ],
+    "Histoire de la maldie": {
+        "La date de debut de la maladie": "IL YA 3 MOIS",
+        "les symptomes": [
+            "CEPHALEES FRONTALES ET FIEVRE"
+        ],
+        "la frequence des symptomes": "INTENSITE DE CEPHALEES : 6/10 SELON L'ECHELLE SIMPLE",
+        "action posee pour attenuer les symptomes": "PRISE DES PARACETAMOLS",
+        "la date de l'action": "A L'APPARITION DES SYMPTOMES",
+        "le lieu de l'action": " A LA MAISON",
+        "l'evolution de la maladie": "2 JOURS PLUTARD LA PRISE DES MEDICAMENT LE PATIENT NOTE UNE DISPARITION DES SYMPOTMES MAIS 2 SEMAINES APRES LA UNE BONNE SANTE APPARENTE LE PATIENT REMARQUE UNE REAPARUTION DES CEPHALEES ET DE LA FIEVRE SUIVIT D'UNE TOUX SECHE ENSUITE GRASSE ET D'UNE SUDATION NOCTURNE ABONDANTE. APRES CONSOMMATION DES CONCOCTIONS DE PHARMACOPE LE PATIENT NOTE 3 JOURS PLUTARD  L'APPARITION DES VOMISSEMENTS ET DE LA FATIGUE"
+    },
+    "Antecedent du patient": [
+        {
+            "Type": "MODE DE VIE",
+            "Description": "CONSOMME HABITUELLEMENT LA NOURRITURE DE LA ROUTE"
+        },
+        {
+            "Type": "ANTECEDENTS MEDICAUX",
+            "Liste des maladies": [
+                "AUCUNE"
+            ]
+        },
+        {
+            "Type": "ANTECEDENTS CHIRUGICAUX",
+            "Liste des chirugies": [
+                "AUCUNE"
+            ]
+        },
+        {
+            "Type": "ANTECEDENT IMMUNO_ALLERGIQUE",
+            "Groupe sanguin": "INCONNU",
+            "Facteur rhesus": "INCONNU",
+            "Electrophoreze": "INCONNU",
+            "Serologie": [
+                "INCONNUE"
+            ],
+            "Allergenes du patient": [
+                "AUCUNNUE"
+            ]
+        },
+        {
+            "Consommation de Tabac": "NEGATIF",
+            "Consommation de Drogue": "NEGATIF",
+            "Consommation d'Alcool": "POSITIF",
+            "CConsommation des produits de Pharmacope": "POSITIF"
+        },
+        {
+            "Type": "ANTECEDENTS FAMILIAUX",
+            "Liste des proches du patient": [
+                "AUCUNE"
+            ]
+        },
+        {
+            "TYPE": "ANTECEDENT GENICO-OBSTETRIQUE",
+            "Maladies genicologiques": [
+                "AUCUNE"
+            ]
+        }
+    ],
+    "Enquetes systemique": [
+        {
+            "Douleurs Thoracique": "POSITIF",
+            "Dyspnee": "POSITIF",
+            "Orthopnee": "POSITIF",
+            "Syncope": "NEGATIF",
+            "Lipothymie": "NEGATIF",
+            "Palpitations": "NEGATIF",
+            "Hepatalgie": "NEGATIF"
+        },
+        {
+            "Douleurs abdominales": "NEGATIF",
+            "Nausees": "NEGATIF",
+            "Vomissements": "NEGATIF",
+            "Dysphagie": "NEGATIF",
+            "Odynophagie": "NEGATIF",
+            "Dyspepsie": "NEGATIF",
+            "Hematemese": "NEGATIF",
+            "Pyrosis": "NEGATIF",
+            "Diarhee": "NEGATIF",
+            "Constipation": "NEGATIF",
+            "Epreintes": "NEGATIF",
+            "Tenesme": "NEGATIF",
+            "Faux Besoins": "NEGATIF",
+            "Melena": "NEGATIF",
+            "Rectorragie": "NEGATIF"
+        },
+        {
+            "Polydysie": "NEGATIF",
+            "Amaigrissement": "NEGATIF",
+            "Hypersudation": "NEGATIF",
+            "Polyurie": "NEGATIF"
+        },
+        {
+            "Dyspareunie": "NEGATIF",
+            "Dysmeronhee": "NEGATIF",
+            "Menomagie": "NEGATIF",
+            "Metromagie": "NEGATIF",
+            "Leucorrhee": "NEGATIF",
+            "Mastodynie": "NEGATIF",
+            "Galactorhee": "NEGATIF"
+        },
+        {
+            "Asthenie": "POSITIF",
+            "Paleur": "NEGATIF"
+        },
+        {
+            "Cephalees": "POSITIF",
+            "Confusion": "NEGATIF",
+            "Convulsions": "NEGATIF",
+            "Vertiges": "NEGATIF",
+            "Paralysie": "NEGATIF",
+            "Paraisie": "NEGATIF",
+            "Paresthesie": "NEGATIF",
+            "Hypoesthesie": "NEGATIF",
+            "Anesthesie": "NEGATIF"
+        },
+        {
+            "Myodesopsies": "NEGATIF",
+            "Metamorpheries": "NEGATIF",
+            "Phospheres": "NEGATIF",
+            "Photophobie": "NEGATIF",
+            "Larmoiement": "NEGATIF",
+            "Douleur Occulaire": "NEGATIF"
+        },
+        {
+            "Douleur Thoracique": "POSITIF",
+            "Dyspnee": "POSITIF",
+            "Expectoration-Bronchorrhee": "NEGATIF",
+            "Toux": "POSITIF",
+            "Hemophysie": "NEGATIF",
+            "Vomique": "NEGATIF",
+            "Hoquet": "NEGATIF",
+            "Voix Bitonique": "NEGATIF",
+            "Voix Roque": "NEGATIF",
+            "Ronflement": "NEGATIF"
+        },
+        {
+            "Hypoaccousie": "NEGATIF",
+            "Atodynie": "NEGATIF",
+            "Otalgie": "NEGATIF",
+            "Otorragie": "NEGATIF",
+            "Accouphene": "NEGATIF",
+            "Dysphonie": "NEGATIF",
+            "Rhinorhee": "NEGATIF",
+            "Rhinorragie": "NEGATIF",
+            "Rhinilalie": "NEGATIF",
+            "Epistaxie": "NEGATIF",
+            "Anasmie": "NEGATIF",
+            "Dysosmie": "NEGATIF",
+            "Cacosmie": "NEGATIF"
+        },
+        {
+            "Anurie": "NEGATIF",
+            "Alligurie": "NEGATIF",
+            "Polyurie": "NEGATIF",
+            "Nychurie": "NEGATIF",
+            "Dysurie": "NEGATIF",
+            "Brullures Michronnelle": "NEGATIF",
+            "Hematurie": "NEGATIF",
+            "Chylurie": "NEGATIF",
+            "Pyurie": "NEGATIF"
+        }
+    ],
+    "Parametres du patient": [
+        {
+            "Nom": "Parametres vitaux",
+            "Tension": 14.0,
+            "Frequence cardiaque": 96.0,
+            "Frequence Respiratoire": 16.0,
+            "Temperature": 37.3,
+            "Saturation en Oxigene": 0.0
+        },
+        {
+            "Nom": "Parametres Entropometrique",
+            "Poids": 74.0,
+            "Taille": 1.76,
+            "Indice de masse": 3.0,
+            "Circonference Abdominale": 0.5
+        }
+    ],
+    "Examens du patient": [
+        {
+            "Inspection du systeme cardiaque": [
+                "PAS D'OEDUN DES MEMBRES INFERIEUR",
+                "PAS DE TUGESSANCE SPONTANEE DES VEINES JUGULAIRES"
+            ],
+            "Palpation du systeme cardiaque": [
+                "CHOCS DES POINTES VISIBLES ET PALPABLES AU 5EME ESPACE INTERCISTAL"
+            ],
+            "Percution du systeme cardiaque": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme cardiaque": [
+                "LES BRUITS DU COEUR B1 ET B2 AUDIBLES AUX FOYERS D'AUSCULTATION SANS SOUFLE"
+            ]
+        },
+        {
+            "Inspection du systeme digestif": [
+                "SCLERES ANITRIQUE",
+                "CAVITE BUCALE PROPRE ET HUMIDE",
+                "ABDOMEN PLAT",
+                "PAS DE CIRCULATION VEINEUSE COLLATERALE"
+            ],
+            "Palpation du systeme digestif": [
+                "PAS DE REPATOMEGALIE"
+            ],
+            "Percution du systeme digestif": [
+                "BONNE SONNORITE ABDOMINALE"
+            ],
+            "Auscultation du systeme digestif": [
+                "BRUIT DES INTESTINS AUDIBLE"
+            ]
+        },
+        {
+            "Inspection du systeme endocrinologique": [
+                "AUCUNNE"
+            ],
+            "Palpation du systeme endocrinologique": [
+                "AUCUNNE"
+            ],
+            "Percution du systeme endocrinologique": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme endocrinologique": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme genital": [
+                "AUCUNNE"
+            ],
+            "Palpation du systeme genital": [
+                "AUCUNNE"
+            ],
+            "Percution du systeme genital": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme genital": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme hematopoietique": [
+                "CONJONCTIVIS ROSEES"
+            ],
+            "Palpation du systeme hematopoietique": [
+                "PAS D'ADENOPATHIE PALPABLE",
+                "PAS DE SPLEROMEGALIE"
+            ],
+            "Percution du systeme hematopoietique": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme hematopoietique": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme nerveux": [
+                "AUCUNNE"
+            ],
+            "Palpation du systeme nerveux": [
+                "AUCUNNE"
+            ],
+            "Percution du systeme nerveux": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme nerveux": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme ophtalmique": [
+                "AUCUNNE"
+            ],
+            "Palpation du systeme ophtalmique": [
+                "AUCUNNE"
+            ],
+            "Percution du systeme ophtalmique": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme ophtalmique": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme pulmonaire": [
+                "BONNE AMPLIATION THORACIQUE"
+            ],
+            "Palpation du systeme pulmonaire": [
+                "VIBRATION VOCALES NORMALEMENT TRANSMISE AUX DEUX CHAMPS PULMONAIRES"
+            ],
+            "Percution du systeme pulmonaire": [
+                "AUCUNNE"
+            ],
+            "Auscultation du systeme pulmonaire": [
+                "MURMURES VESICULAIRES AUDIBLE AUX DEUX CHAMPS PULMONAIRES SANS BRUITS SUR AJOUTER"
+            ]
+        },
+        {
+            "Inspection des spheres orl": [
+                "AUCUNNE"
+            ],
+            "Palpation des spheres orl": [
+                "AUCUNNE"
+            ],
+            "Percution des spheres orl": [
+                "AUCUNNE"
+            ],
+            "Auscultation des spheres orl": [
+                "AUCUNNE"
+            ]
+        },
+        {
+            "Inspection du systeme urinaire": [
+                "PAS DE VAUSURES HYPOGASTRIQUE"
+            ],
+            "Palpation du systeme urinaire": [
+                "KIDNEY MURPHY PUNCH"
+            ],
+            "Percution du systeme urinaire": [
+                "AUCUNNE "
+            ],
+            "Auscultation du systeme urinaire": [
+                "AUCUNNE"
+            ]
+        }
+    ],
+    "Diagnostic du patient": [
+        {
+            "Titre": "Hypotheses de Diagnostic",
+            "Details": [
+                {
+                    "le diagnostic positf probable": "FIEVRE THYPHOIDE",
+                    "le diagnostic etiologique probable": {
+                        "origine de la maladie": " PARASITAIRE",
+                        "la cause": "SALMORA THYPHY"
+                    },
+                    "le diagnostic differentiel": []
+                }
+            ]
+        },
+        {
+            "Titre": "Diagnostic de travail",
+            "Details": {
+                "le diagnostic positf probable": "FIEVRE THYPHOIDE",
+                "le diagnostic etiologique probable": {
+                    "origine de la maladie": "PARASITAIRE",
+                    "la cause": "SALMONARA THYPHY"
+                }
+            }
+        }
+    ],
+    "Examens complementaires": {
+        "Avise de diagnostic": [
+            "EXAMEN PARASITOLOGIQUE DES SELS",
+            "COPROCULTURE"
+        ],
+        "Retentissement": [
+            "IONOGRAMME COMPLET"
+        ],
+        "Terrain": [
+            "TEST SEROLOGIQUE VIH",
+            "TEST SEROLOGIQUE HEPATITE"
+        ]
+    },
+    "Traitement du patient": {
+        "Buts": [
+            "TRAITEMENT DE LA FIEVRE THYPHOIDE",
+            "TRAITEMENT DE LA CAUSE",
+            "PREVENIR LES COMPLICATIONS"
+        ],
+        "Mesures generales": [
+            "HOSPITALISATION",
+            "MEDICAMENTS",
+            "ALIMENTATION EQUILIBREE"
+        ],
+        "Mesures specifiques": [
+            {
+                "Le medicament": "LOPERAMIDE",
+                "Posologie": "2 GELLULES EN 1 PRISE"
+            },
+            {
+                "Le medicament": "SIROP",
+                "Posologie": "A BOIRE A VOLONTE 1 SACHET POUR 1 LITRE"
+            },
+            {
+                "Le medicament": "COTRIMOXAZOLE",
+                "Posologie": "900 mg 10 A 15 JOURS"
+            }
+        ],
+        "Surveillances": [
+            {
+                "Type": "CLINIQUE",
+                "Parametres": [
+                    "TENSION ARTERIELLE",
+                    "CLINIQUE"
+                ]
+            },
+            {
+                "Type": "FREQUENCE RESPIRATOIRE",
+                "Parametres": [
+                    "FR"
+                ]
+            }
+        ],
+        "Pronostics": [
+            "DEPENDANCE DU GENRE A CAUSE DES CEPHALEES",
+            "PRISE EN CHARGE",
+            "TOLERENCE DU PATIENT"
+        ]
+    }
+}
+
+{
+    "ID": 8951,
+    "NOM": " Marie Christine",
+    "Age": 21,
+    "Contexte Social": {
+        "status matrimonial": "Marie",
+        "fonction": "Menagere",
+        "religion": "Catholique",
+        "ethnie": "Bamilike",
+        "residence": "Nkoldongo",
+        "mari": "PP",
+        "telephone": 690123456
+    },
+    "SympTomes": [
+        "Diarhee chronique",
+        "Douleurs Abdominales"
+    ],
+    "Histoire": "Le debut des sympt\u00f4mes remonte a un mois environs marque par une diarhee Glairo sanguinolante associe a des douleurs abdominales a type d'etirement environs 10 episodes par jours. en contexte a febrile ce qui a motive 3 jours plutard une consultation a l'hopital de distict de Nkoldongo. 2 semaines apres la patiente note une reapparution de la diarhee avec les m\u00eames caracteristiques ce qui motive une nouvelle consultation de ledit h\u00f4pital. L'evolution pendant le traitement est marquee deux semaines plutard par l'arr\u00eat de la diarhee. Quelques jour plutard la reprise de la diarhee avec les m\u00eames sympt\u00f4mes motive a nouveau une consultation au CHU de Yaounde o\u00f9 elle est referee. nous devons noter l'alternance diarhee constipation.",
+    "antecedent": {
+        "MODE de vie": "elle consomme beaucoup de viande et de fumesons",
+        "Medical": "personne vivante avec le VIH connu depuis 2014 avec une charge virale inconnu avec un taux de CD4 inconnu decouvert au court d'un paludisme grave. par ailleur aurai une infection pulmonaire en fevrier 2016 sous traitement depuis un mois",
+        "chirugical": "intervention chirugicale en 2004 indiquer pour grossesse extra uterine rompu de suite simple a la maternite",
+        "Toxicologie": "ne fume pas et ne boit pas",
+        "Familiaux": {
+            "Ascendants": "Pere decede d'un accident de la voie publique\n Mere en bonne sante",
+            "Collateraux": "conjoint en bonne sante",
+            "Descendants": "cinq enfants donc une fille et quatre gar\u00e7ons en bonne sante"
+        }
+    },
+    "enquetes systemique": {
+        "Signes Generaux": {
+            "Astherine": "Negatif",
+            "Amaigrissement": "Positif",
+            "Anorexie": "Negatif",
+            "Fievre": "Negatif",
+            "Sueurs": "Negatif",
+            "Frissosn": "Negatif",
+            "Soif": "Negatif"
+        },
+        "Systeme": {
+            "Diarhee": "Positif",
+            "Liquide Glairosanguinolante": "Positif",
+            "Nausees": "Negatif",
+            "Vomissement": "Negatif",
+            "Douleurs Gastriques": "positif"
+        }
+    },
+    "parametre": [
+        {
+            "TYPE": "Vitaux",
+            "Tension Arterielle": "100/60 mmHg",
+            "Frequence Cardiaque": "96 bpm",
+            "Frequence Respiratoire": "16 Cpm",
+            "Glycemie": "1,4 gpl",
+            "Temperature": "37,8 \u00b0C",
+            "Saturation en Oxygene": "5"
+        },
+        {
+            "TYPE": "Entropometrique",
+            "Taille": "1,63 m",
+            "Indice de masse": "0",
+            "Poids": "65 kg",
+            "Circonference abdominale": "Inconnue"
+        }
+    ],
+    "examens": [
+        {
+            "SYSTEME": "DIGESTIF",
+            "Inspection": [
+                "Scleres anitriques",
+                "Cavite bucale propre et humide",
+                "Abdomen plat",
+                "Circulation veineuse collaterale absente",
+                "Plis cutanique paraisseux"
+            ],
+            "Palpation": [
+                "Repatomegalie absente",
+                "Masse palpable absente",
+                "Sensibilite epigastrique",
+                "Sensibilite Hypochandre Gauche"
+            ],
+            "Percution": [
+                "Bonne sonnorite abdominale"
+            ],
+            "auscultation": [
+                "Bruits des instestins audibles"
+            ]
+        },
+        {
+            "SYSTEME": "NERVEUX",
+            "Inspection": [
+                "Fontions superieur : normaux",
+                "Nerf cranien tofe : normal",
+                "Force musculaire Globale : Positive",
+                "baret : positive",
+                "Magazzini : POsitive",
+                "Cotation de la force de chaque menbre : Positive"
+            ],
+            "Palpation": [
+                "RAS"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        },
+        {
+            "SYSTEME": "CARDIOVASCULAIRE",
+            "Inspection": [
+                "Oedun des menbres inferieur : absent",
+                "Tugessance spontanee des veines jugulaire : absente"
+            ],
+            "Palpation": [
+                "Choc des pointes a l'espace inter costal : Visible et Palpable"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "Bruits du coeur : audible"
+            ]
+        },
+        {
+            "SYSTEME": "RESPIRATOIRE",
+            "Inspection": [
+                "Ampliation thoracique : bonne"
+            ],
+            "Palpation": [
+                "Vibration vocale : Normale"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "Murmures Vesiculaires : audibles"
+            ]
+        },
+        {
+            "SYSTEME": "URINAIRE",
+            "Inspection": [
+                "Vausure Hypogastrique : absente"
+            ],
+            "Palpation": [
+                "Kidney murphy punch"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        },
+        {
+            "SYSTEME": "HEMATOPOITIQUE",
+            "Inspection": [
+                "Conjonction : rosee"
+            ],
+            "Palpation": [
+                "Adenopathie palpable : absente",
+                "Spleromegalie : absente"
+            ],
+            "Percution": [
+                "RAS"
+            ],
+            "auscultation": [
+                "RAS"
+            ]
+        }
+    ],
+    "hypothese de diagnostic": [
+        {
+            "Diagnostic Positif": "Enterite a frbrille",
+            "Diagnostic etiologique": {
+                "TYPE": "Parasitaire",
+                "Cause": [
+                    "Isosporose",
+                    "Cryptosporodiose"
+                ],
+                "argument": "Diarhee chronique glairosanguinolante"
+            },
+            "Diagnostic differentiel": {
+                "Maladie": [
+                    "Fievre Thyphoide",
+                    "Dysenterie"
+                ],
+                "argument en faveur": [
+                    "diarhee chronique"
+                ],
+                "argument en defaveur": [
+                    "absence de fievre",
+                    "absence de signes vicerals"
+                ]
+            }
+        },
+        {
+            "Diagnostic Positif": "Fievre thyphoide",
+            "Diagnostic etiologique": {
+                "TYPE": "Parasitaire",
+                "Cause": [
+                    "Salmonara thyphi"
+                ],
+                "argument": "appartenance au segond septenaire"
+            },
+            "Diagnostic differentiel": {
+                "Maladie": "Dysenterie",
+                "argument en faveur": [
+                    "diarhee chronique"
+                ],
+                "argument en defaveur": "Aucun"
+            }
+        }
+    ],
+    "diagnostique de travail": {
+        "Maladie": "Enterite a frbrille",
+        "Etiologie": {
+            "TYPE": "Parasitaire",
+            "Cause": [
+                "Isosporose",
+                "Cryptosporodiose"
+            ]
+        }
+    },
+    "examens complementaire": {
+        "Avise de diagnostic": [
+            "Coproculture",
+            "Examen parasitologique des sels",
+            "Hernoculture"
+        ],
+        "Retentissements": [
+            "Uree-Creatine sanguine",
+            "Ionogramme complet"
+        ],
+        "Terrain": [
+            "Taux de CD4",
+            "Taux de charge Virale",
+            "Bilan des autres IST"
+        ]
+    },
+    "traitement": {
+        "But": [
+            "Traitement de la diarhee",
+            "Tritement des causes",
+            "Prevenir les complication"
+        ],
+        "Mesures generales": [
+            "Hospitalisation",
+            "Medicaments",
+            "Alimentation equilibree"
+        ],
+        "Mesures specifiques": {
+            "Loperamide": "2 gellules en une prise puis 1 gellule a chaque prise",
+            "Sirop": " a boire a volonte 1 sachet oar litre d'eau",
+            "Cotrimoxazole": "900 mg 10 a 15 jours"
+        },
+        "Surveillance": {
+            "Clinique": [
+                "Tension Arterille",
+                "Frequence Cardiaque",
+                "Frequence Respiratoire",
+                "Temperature",
+                "Poids",
+                "Diurese",
+                "Diarhee"
+            ],
+            "Paraclinique": "Examens complementaires a effectuer par le patient"
+        },
+        "pronostique": [
+            "Dependance du germe en cause de la diarhee",
+            "Prise en charge",
+            "Tolerence du patient"
+        ]
+    }
+}
